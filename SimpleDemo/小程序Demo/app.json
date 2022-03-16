@@ -3,12 +3,12 @@
     "pages/masonry-js/masonry",
     "pages/index/index",
     "pages/masonry-css/masonry"
-  
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

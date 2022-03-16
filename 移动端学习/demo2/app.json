@@ -4,5 +4,6 @@
     "pages/teacher/teacher",
     "pages/publish/publish",
     "pages/parent/parent"
-  ]
+  ],
+  "sitemapLocation": "sitemap.json"
 }

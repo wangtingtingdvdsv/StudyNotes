@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f240926-bca9-4241-931f-1088975c1366" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HTML+CSS/CSS基础.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/HTML+CSS/CSS基础.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDemo/小程序Demo/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleDemo/小程序Demo/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDemo/小程序Demo/pages/masonry-js/masonry.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleDemo/小程序Demo/pages/masonry-js/masonry.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDemo/小程序Demo/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleDemo/小程序Demo/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端工程化+性能优化/git.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/前端工程化+性能优化/git.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端工程化+性能优化/webpack.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/前端工程化+性能优化/webpack.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端框架/vue/multi-tree-select/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/前端框架/vue/multi-tree-select/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端面试/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端面试/【九宫格】.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端简单知识/Node.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/后端简单知识/Node.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学无止境/python.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/学无止境/python.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构+计算机网络+操作系统/网络知识.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构+计算机网络+操作系统/网络知识.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/移动端学习/demo1/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/移动端学习/demo1/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/移动端学习/demo1/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/移动端学习/demo1/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/移动端学习/demo2/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/移动端学习/demo2/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/移动端学习/demo2/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/移动端学习/demo2/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/移动端学习/flutter.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/移动端学习/flutter.xmind" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26S7stlHH2TrHDjii06dliwj3QC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f240926-bca9-4241-931f-1088975c1366" name="Changes" comment="" />
+      <created>1647405343406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647405343406</updated>
+      <workItem from="1647405344688" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

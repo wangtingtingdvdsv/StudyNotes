@@ -2,7 +2,7 @@
 <!-- js实现的瀑布流 -->
 <view class="container" hidden='{{flag}}'>
 	  <view wx:for="{{group}}" style='top: {{item.top}}; left:{{item.left}}; width:{{width}}px;' class='box box-{{index}}' wx:key="{{index}}">
- 			<image mode="widthFix" src='http://cued.xunlei.com/demos/publ/img/P_{{item.name}}.jpg'  bindload='load' data-index='{{index}}' class='image'></image>
+ 			<image mode="widthFix" src='https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2074293234,968543210&fm=26&gp=0.jpg'  bindload='load' data-index='{{index}}' class='image'></image>
        <view class='desc'>{{item.desc}}</view>
        <view class="date">{{item.date}}</view>
 	  </view>
